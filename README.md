@@ -4,10 +4,11 @@ Sobre mim:
 
 Sou um maker e entusiasta de tecnologias disruptivas, futurismo e automação de processos!
 <br/>
-Tenho interesse em atividades de ensino, extensão e atuo em linhas de pesquisa relacionadas à Educação, principalmente ensino baseado em metodologias ativas fundamentadas na cultura maker e didática STEAM.
+Tenho interesse em atividades de ensino e extensão, atuando em linhas de pesquisa relacionadas à Educação, principalmente ensino baseado em metodologias ativas fundamentadas na cultura maker e didática STEAM. Atualmente, estou mergulhando no universo da Inteligência Artificial, brincando com projetos que ensinam IAs a jogar como humanos — ou seria o contrário? Quem sabe não estou criando a Skynet dos games? 😄
  * 🎓 Engenheiro Mecatrônico
  * 🤓 Nerd
  * 📈 Cientista de Dados
+ * 🕹️🤖🔥Treinador de IAs gamers (sem risco de apocalipse robô, prometo! - Ou não!)
 <div style="display: inline_block"><br/>
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />

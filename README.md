@@ -4,7 +4,8 @@ Sobre mim:
 
 Sou um maker e entusiasta de tecnologias disruptivas, futurismo e automação de processos!
 <br/>
-Tenho interesse em atividades de ensino e extensão, atuando em linhas de pesquisa relacionadas à Educação, principalmente ensino baseado em metodologias ativas fundamentadas na cultura maker e didática STEAM. Atualmente, estou mergulhando no universo da Inteligência Artificial, brincando com projetos que ensinam IAs a jogar como humanos — ou seria o contrário? Quem sabe não estou criando a Skynet dos games? 😄
+Tenho interesse em atividades de ensino e extensão, atuando em linhas de pesquisa relacionadas à Educação, principalmente ensino baseado em metodologias ativas fundamentadas na cultura maker e didática STEAM. 
+Atualmente, estou mergulhando no universo da Inteligência Artificial, brincando com projetos que ensinam IAs a jogar como humanos — ou seria o contrário? Quem sabe não estou criando a Skynet dos games? 😄
  * 🎓 Engenheiro Mecatrônico
  * 🤓 Nerd
  * 📈 Cientista de Dados
